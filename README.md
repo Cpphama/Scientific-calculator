@@ -11,7 +11,7 @@ A feature-rich calculator with support for:
 ### ⚠️ Notes
 - Not 100% bug-free — edge cases may cause unexpected results.
 - Works as expected with correct mathematical input (e.g., using parentheses).
-- Built with C++ and [your GUI library name].
+- Built with C++ and Raylib.
 
 ### 🚀 Why I Built This
 A personal challenge to explore parsing, evaluation, and GUI design.
