@@ -15,3 +15,10 @@ A feature-rich calculator with support for:
 
 ### 🚀 Why I Built This
 A personal challenge to explore parsing, evaluation, and GUI design.
+
+
+
+### Impoetant
+
+Needs a compiler with C++17 support
+needs Raylib installed on the system or in lib/ folder of the CMakwLists.txt
