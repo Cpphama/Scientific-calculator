@@ -18,7 +18,7 @@ A personal challenge to explore parsing, evaluation, and GUI design.
 
 
 
-### Impoetant
+### Important
 
 Needs a compiler with C++17 support
 needs Raylib installed on the system or in lib/ folder of the CMakwLists.txt
