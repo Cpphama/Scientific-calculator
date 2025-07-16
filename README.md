@@ -21,22 +21,20 @@ A personal challenge to explore parsing, evaluation, and GUI design.
 1- Needs a compiler with C++17 support 
 2- Needs CMake to build the project
 3- If you are using MSVS delete from line 41 to 53
+4- needs Raylib installed on the system or in lib/ folder of the CMakwLists.txt
+
+
+
 
 ### How to build on Window(Using CMake)
-1- Open CMD in the project directory
-2- mkdir build
-3- cmake .. -G "Ninja" (or your Perfereded generator)
-4- "Ninja" (or tyoe your Perfereded generator name)
-5- go to the bin folder and open Calculator.exe
+-1- Open CMD in the project directory
+-2- mkdir build
+-3- cmake .. -G "Ninja" (or your Perfereded generator)
+-4- "Ninja" (or tyoe your Perfereded generator name)
+-5- go to the bin folder and open Calculator.exe
 
 
 
 
 
 
-
-
-### Important
-
-Needs a compiler with C++17 support
-needs Raylib installed on the system or in lib/ folder of the CMakwLists.txt
