@@ -17,6 +17,24 @@ A feature-rich calculator with support for:
 A personal challenge to explore parsing, evaluation, and GUI design.
 
 
+### Important
+1- Needs a compiler with C++17 support 
+2- Needs CMake to build the project
+3- If you are using MSVS delete from line 41 to 53
+
+### How to build on Window(Using CMake)
+1- Open CMD in the project directory
+2- mkdir build
+3- cmake .. -G "Ninja" (or your Perfereded generator)
+4- "Ninja" (or tyoe your Perfereded generator name)
+5- go to the bin folder and open Calculator.exe
+
+
+
+
+
+
+
 
 ### Important
 
